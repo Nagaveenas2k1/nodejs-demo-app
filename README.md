@@ -29,7 +29,7 @@ This project demonstrates a complete CI/CD pipeline for a Node.js application us
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/<your-username>/nodejs-demo-app.git
+- git clone https://github.com/Nagaveenas2k1/nodejs-demo-app.git
 - cd nodejs-demo-app
 
 
