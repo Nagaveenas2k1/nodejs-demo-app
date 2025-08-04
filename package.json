@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js application used to demonstrate CI/CD pipeline automation. Includes GitHub Actions workflow and Docker-based deployment setup.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagaveenas2k1/nodejs-demo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagaveenas2k1/nodejs-demo-app/issues"
+  },
+  "homepage": "https://github.com/Nagaveenas2k1/nodejs-demo-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
